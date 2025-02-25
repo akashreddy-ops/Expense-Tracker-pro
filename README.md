@@ -11,6 +11,6 @@ I’m excited to share Expense Tracker Pro, a Python-based project designed to h
 
 
 🎯 Who Can Use It?
-🔹 Individuals managing personal expenses
-🔹 Students tracking their daily spending
-🔹 Anyone interested in learning Python-based finance applications
+🔹 Individuals managing personal expenses.
+🔹 Students tracking their daily spending.
+🔹 Anyone interested in learning Python-based finance applications.
